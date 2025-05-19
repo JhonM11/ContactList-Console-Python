@@ -33,7 +33,7 @@ ListContactConsole/
 1. Clona el repositorio:
 
 
-git clone https://github.com/tu_usuario/ContactList-Console-Python.git
+git clone git@github.com:JhonM11/ContactList-Console-Python.git
 cd ListContactConsole
 
 ## 2. Instalación de dependicias.
